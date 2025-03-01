@@ -3,7 +3,7 @@ const mineflayer = require('mineflayer');
 // === CONFIGURATION ===
 const config = {
     serverIP: "Empiresmps.aternos.me",  // Replace with your Aternos server IP
-    botUsername: "AFK_Bot",              // Change bot username
+    botUsername: "Empirehost_bot",              // Change bot username
     autoReconnect: true,                 // Auto-reconnect
     preventAFK: true,                     // Enable AFK movements
     chatMessages: ["Still here!", "AFK but online!", "Keeping server alive!"], 
